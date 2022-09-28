@@ -50,6 +50,7 @@ ncal -M -A1 -B1 july 1969  יציג חודש לפני ואחרי יולי בשנ
 
 
 <h3>   man - Manual מדריך לפקודות  : </h3>
+<h4> man commnd will give me descriptions of all the availible options of the command    </h4>
 <pre>
 man ls יתן לי את כל האופציות בפקודה הזאת 
 בדף שייפתח בקומנד ליין 
@@ -57,6 +58,14 @@ man ls יתן לי את כל האופציות בפקודה הזאת
 g - יעלה אותנו הכי למעלה 
 G - ייקח אותנו למטה בעמוד 
 q - man חזרה לקומנדליין יצא מהעמוד של 
+press "space" / f to see manual next page that fit the terminal view
+press b to see manual back page that fit the terminal view
+h - find all the moving in manual shortcuts 
+To search spesifice command opption in the manual (like cntrl + f) use /-theOption
+
+
+
+
 
 </pre>
 
