@@ -79,6 +79,7 @@ xdg-open /  -to open the root directory (like c driver in windows)
 /home -contain ahome folderfor each user on the system
 
 </pre>
+![image](https://user-images.githubusercontent.com/86184072/193459753-5cd7b92f-7471-415a-9dc1-4b03fb7f3cef.png)
 
 
 <pre></pre>
