@@ -73,4 +73,13 @@ which command - to see path of the command location
 help command
 </pre>
 
+<h3> Navigation </h3>
+<pre>
+xdg-open /  -to open the root directory (like c driver in windows)
+/home -contain ahome folderfor each user on the system
+
+</pre>
+
+
+<pre></pre>
 <!-- https://poalim.udemy.com/course/the-linux-command-line-bootcamp/learn/lecture/26177178#overview -->
