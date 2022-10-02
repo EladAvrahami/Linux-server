@@ -77,6 +77,9 @@ help command
 <pre>
 xdg-open /  -to open the root directory (like c driver in windows)
 /home -contain ahome folderfor each user on the system
+xdg-open ~  -to open home directory shortcut
+pwd   -Print Working Directory (current path)
+ls    -show list of folders and files in the current directory 
 
 </pre>
 ![image](https://user-images.githubusercontent.com/86184072/193459753-5cd7b92f-7471-415a-9dc1-4b03fb7f3cef.png)
