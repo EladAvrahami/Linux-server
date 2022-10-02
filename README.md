@@ -63,10 +63,14 @@ press b to see manual back page that fit the terminal view
 h - find all the moving in manual shortcuts 
 To search spesifice command opption in the manual (like cntrl + f) use /-theOption
 
+</pre>
 
-
-
-
+<h3>  type/which for command that dont have manual page entries  </h3>
+<pre>
+man command
+type command - to see the command location
+which command - to see path of the command location
+help command
 </pre>
 
 <!-- https://poalim.udemy.com/course/the-linux-command-line-bootcamp/learn/lecture/26177178#overview -->
