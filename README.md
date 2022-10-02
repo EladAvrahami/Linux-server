@@ -68,7 +68,7 @@ To search spesifice command opption in the manual (like cntrl + f) use /-theOpti
 <h3>  type/which for command that dont have manual page entries  </h3>
 <pre>
 man command
-type command - to see the command location
+type command - tell me if the command is shell/binaty/alias
 which command - to see path of the command location
 help command
 </pre>
