@@ -31,6 +31,7 @@ ncal -3 - חודש אחורה נוכחי וקדימה
 2.date --universal
 
 ls- רשימה של כל התיקיות 
+ls -la  רשימה של כל הקבצים כולל המוסתרים שמתחילים בנקודה
 cd Desktop - get into folder
 touch colors.txt -create file 
 
