@@ -18,7 +18,8 @@ cal july 1969 -חודש יולי באותה שנה
 sort :
 sort color.txt - יסדר בסדר אלפבתי את התוכן שבקובץ
 rm:
-rm color.txt - מוחק קובץ 
+rm color.txt - מוחק קובץ
+mv - in Linux stands for move, mv <file/folder we want to move> <destination>
 
 ncal -j -  מס היום בשנה (ספירה ג'ליאנית)
 ncal -3 - חודש אחורה נוכחי וקדימה 
