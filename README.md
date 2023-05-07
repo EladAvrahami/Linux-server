@@ -35,6 +35,12 @@ ls -la  רשימה של כל הקבצים כולל המוסתרים שמתחיל
 cd Desktop - get into folder
 touch colors.txt -create file 
 
+vi fileName.txt  הכנסת תוכן לקובץ דרך הטרמינל  
+will open the empty file after that
+in the terminal you press i to start INSERT text to it through terminal
+in order to exit insert mood just press esc and than enter ":wq" to save the file changes.(w-write :q- just quit no save)
+
+
 sort colors.txt -r או --revers  יציג לי את תוכן הרשימה מסודר בצורה אלפבתית הפוכה
 sort colors.txt -r -u  רשימה מסודרת הפוך שמראה רק ערכים ייחודיים (--unique)
 ncal -A2 או -A5 ידפיס לי מס חודשים לאחר חודש נוכחי בהתאם למס שארשום אחרי האות (After) 
