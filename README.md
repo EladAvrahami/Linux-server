@@ -41,6 +41,10 @@ will open the empty file after that
 in the terminal you press i to start INSERT text to it through terminal
 in order to exit insert mood just press esc and than enter ":wq" to save the file changes.(w-write :q- just quit no save)
 
+Command "cp" - allows you to copy a file or a folder (or multiples) from one location to another one example:
+cp <file we want to copy> <name of the new file/folder>
+cp -r <folder we want to copy> <name of the new file/folder> //use -r option to copy folders
+
 
 sort colors.txt -r או --revers  יציג לי את תוכן הרשימה מסודר בצורה אלפבתית הפוכה
 sort colors.txt -r -u  רשימה מסודרת הפוך שמראה רק ערכים ייחודיים (--unique)
