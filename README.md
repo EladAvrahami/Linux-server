@@ -101,3 +101,25 @@ ls folderName  -it will show me all the files and folders in spesific folder nam
 
 <pre></pre>
 <!-- https://poalim.udemy.com/course/the-linux-command-line-bootcamp/learn/lecture/26177178#overview -->
+
+
+<h3> Permissions </h3>
+<pre>
+ls -la   -la flag allows us to see some basic data related to the files or folders, like the permissions of the files/folders, their creation date/time, etc
+
+read: The Read permission refers to a user's ability to read the contents of the file. It is stated with the character r.
+write: The Write permission refers to a user's ability to write or modify a file or directory. It is stated with the character w.
+execute: The Execute permission affects a user's ability to execute a file or view the contents of a directory. It is stated with the character x.
+
+user-based permission groups:
+
+owner: The Owner permissions apply only to the owner of the file or directory, and will not impact the actions of other users. They are represented in the first 3 characters.
+group: The Group permissions apply only to the group that has been assigned to the file or directory, and will not affect the actions of other users. They are represented in the middle 3 characters.
+all users: The All Users permissions apply to all other users on the system, and this is the permission group that you want to watch the most. They are represented in the last 3 characters.
+
+So, applying all this to our file, we can say that the owner of the file (in this case, it's us) has read (r) and write (w) permissions, and the group and the rest of users have only read (r) permissions.
+example:
+rw-/r--/r--
+
+
+</pre>
