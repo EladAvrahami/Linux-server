@@ -19,6 +19,7 @@ sort :
 sort color.txt - יסדר בסדר אלפבתי את התוכן שבקובץ
 rm:
 rm color.txt - מוחק קובץ
+rm -r - מוחק תקייה 
 mv - in Linux stands for move, mv <file/folder we want to move> <destination>
 
 ncal -j -  מס היום בשנה (ספירה ג'ליאנית)
